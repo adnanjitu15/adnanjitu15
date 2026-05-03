@@ -6,7 +6,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 Building the future of Production-Ready AI Agents and RAG-powered systems. 
-
 "Jus a guy living life like 8GB of RAM, Running 58 Chrome tabs' worth of dreams💻💫"
 
 ---
@@ -20,8 +19,8 @@ Building the future of Production-Ready AI Agents and RAG-powered systems.
 ---
 
 ### 🧪 Featured Projects
-- **[Curely AI](https://curely-ai.vercel.app/):** An enterprise-grade Medical RAG Chatbot built with FastAPI, FAISS, and Gemini 2.5 Flash.
-- **[Plant Disease Detector](https://github.com/adnanjitu15/plant-disease-detector):** High-precision Computer Vision app trained on 55,000+ images using PyTorch and EfficientNet-B0.
+- **[🩺Curely AI](https://curely-ai.vercel.app/):** An enterprise-grade Medical RAG Chatbot built with FastAPI, FAISS, and Gemini 2.5 Flash.
+- **[🌿Plant Disease Detector](https://github.com/adnanjitu15/plant-disease-detector):** High-precision Computer Vision app trained on 55,000+ images using PyTorch and EfficientNet-B0.
 
 ---
 
