@@ -20,8 +20,8 @@ Building the future of Production-Ready AI Agents and RAG-powered systems.
 ---
 
 ### 🧪 Featured Projects
-- **🩺[Curely AI](https://curely-ai.vercel.app/):** An enterprise-grade Medical RAG Chatbot built with FastAPI, FAISS, and Gemini 2.5 Flash.
-- **🌿[Plant Disease Detector](https://github.com/adnanjitu15/plant-disease-detector):** High-precision Computer Vision app trained on 55,000+ images using PyTorch and EfficientNet-B0.
+- **🩺 [Curely AI](https://curely-ai.vercel.app/):** An enterprise-grade Medical RAG Chatbot built with FastAPI, FAISS, and Gemini 2.5 Flash.
+- **🌿 [Plant Disease Detector](https://github.com/adnanjitu15/plant-disease-detector):** High-precision Computer Vision app trained on 55,000+ images using PyTorch and EfficientNet-B0.
 
 ---
 
@@ -42,7 +42,7 @@ Building the future of Production-Ready AI Agents and RAG-powered systems.
 ---
 
 ### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-jitu-a01544357) 
+- 💼 [LinkedIn](www.linkedin.com/in/adnan-jitu-ai) 
 - 🌐 [Facebook (Adnan Jitu)](https://www.facebook.com/profile.php?id=61578199545972)
 - ⚡ **Fun Fact:** I'm on a mission to build a perfect-fit, 6-pack physique while mastering ML roadmaps.
 
